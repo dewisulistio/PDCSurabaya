@@ -1,0 +1,1717 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-4928' action='modify' visible='true' lat='-7.2351007754' lon='112.60956678208'>
+    <tag k='amenity' v='marketplace' />
+    <tag k='name' v='Pasar' />
+  </node>
+  <node id='-4930' action='modify' visible='true' lat='-7.22690073906' lon='112.60658813443'>
+    <tag k='amenity' v='clinic' />
+    <tag k='name' v='RS/Puskesmas' />
+  </node>
+  <node id='-4932' action='modify' visible='true' lat='-7.23522571984' lon='112.61258139075'>
+    <tag k='amenity' v='clinic' />
+    <tag k='name' v='RS/Puskesmas' />
+  </node>
+  <node id='-4934' action='modify' visible='true' lat='-7.21424399683' lon='112.60842113146'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-4936' action='modify' visible='true' lat='-7.22405374742' lon='112.61644709969'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-4938' action='modify' visible='true' lat='-7.22651310137' lon='112.60624831254'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-4940' action='modify' visible='true' lat='-7.2290754631' lon='112.60273170356'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-4942' action='modify' visible='true' lat='-7.23691115109' lon='112.60902821359'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-4944' action='modify' visible='true' lat='-7.23533704172' lon='112.61178040293'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-4946' action='modify' visible='true' lat='-7.23553061338' lon='112.61330851909'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-4948' action='modify' visible='true' lat='-7.23697423413' lon='112.62182587833'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-4950' action='modify' visible='true' lat='-7.23762636698' lon='112.62153499677'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-4952' action='modify' visible='true' lat='-7.24353050038' lon='112.61404553933'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-4954' action='modify' visible='true' lat='-7.21456889315' lon='112.60603809381'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-4956' action='modify' visible='true' lat='-7.21456717534' lon='112.60909460435'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-4958' action='modify' visible='true' lat='-7.22383773974' lon='112.5981880905'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-4960' action='modify' visible='true' lat='-7.22232680896' lon='112.59326953257'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-4962' action='modify' visible='true' lat='-7.22441633279' lon='112.6162005057'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-4964' action='modify' visible='true' lat='-7.22293861978' lon='112.6147306628'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-4966' action='modify' visible='true' lat='-7.2295024116' lon='112.60217688207'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-4968' action='modify' visible='true' lat='-7.22583575074' lon='112.60088384434'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-4970' action='modify' visible='true' lat='-7.23424511246' lon='112.61372446697'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-4972' action='modify' visible='true' lat='-7.2379632956' lon='112.62085256328'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-4974' action='modify' visible='true' lat='-7.23952475633' lon='112.62420450386'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-4976' action='modify' visible='true' lat='-7.24333845462' lon='112.61463853003'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-4978' action='modify' visible='true' lat='-7.24186740773' lon='112.60873449761'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-4980' action='modify' visible='true' lat='-7.23574878851' lon='112.60785595271'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Desa' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-4982' action='modify' visible='true' lat='-7.24161821913' lon='112.61527640494'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Desa' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-4984' action='modify' visible='true' lat='-7.22098406022' lon='112.6176648451'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Desa' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-4986' action='modify' visible='true' lat='-7.22617997946' lon='112.60585671757'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Desa' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-4988' action='modify' visible='true' lat='-7.23772391548' lon='112.74906467486'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Layanan Telekomunika' />
+    <tag k='tower:type' v='communication' />
+  </node>
+  <node id='-4990' action='modify' visible='true' lat='-7.20615160633' lon='112.73442172946'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Layanan Telekomunika' />
+    <tag k='tower:type' v='communication' />
+  </node>
+  <node id='-4992' action='modify' visible='true' lat='-7.23131966959' lon='112.73556563007'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Layanan Telekomunika' />
+    <tag k='tower:type' v='communication' />
+  </node>
+  <node id='-4994' action='modify' visible='true' lat='-7.2344965566' lon='112.73711644662'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Layanan Telekomunika' />
+    <tag k='tower:type' v='communication' />
+  </node>
+  <node id='-4996' action='modify' visible='true' lat='-7.24213555854' lon='112.73746142253'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Layanan Telekomunika' />
+    <tag k='tower:type' v='communication' />
+  </node>
+  <node id='-4998' action='modify' visible='true' lat='-7.24471666976' lon='112.73399831687'>
+    <tag k='amenity' v='marketplace' />
+    <tag k='name' v='Pasar' />
+  </node>
+  <node id='-5000' action='modify' visible='true' lat='-7.24343619541' lon='112.71878975916'>
+    <tag k='amenity' v='marketplace' />
+    <tag k='name' v='Pasar' />
+  </node>
+  <node id='-5002' action='modify' visible='true' lat='-7.24565776481' lon='112.71470148371'>
+    <tag k='amenity' v='marketplace' />
+    <tag k='name' v='Pasar' />
+  </node>
+  <node id='-5004' action='modify' visible='true' lat='-7.23301959897' lon='112.742656559'>
+    <tag k='amenity' v='marketplace' />
+    <tag k='name' v='Pasar' />
+  </node>
+  <node id='-5006' action='modify' visible='true' lat='-7.23161016002' lon='112.74709960705'>
+    <tag k='amenity' v='marketplace' />
+    <tag k='name' v='Pasar' />
+  </node>
+  <node id='-5008' action='modify' visible='true' lat='-7.2162853447' lon='112.73261550838'>
+    <tag k='amenity' v='marketplace' />
+    <tag k='name' v='Pasar' />
+  </node>
+  <node id='-5010' action='modify' visible='true' lat='-7.2217993399' lon='112.7377622537'>
+    <tag k='amenity' v='marketplace' />
+    <tag k='name' v='Pasar' />
+  </node>
+  <node id='-5012' action='modify' visible='true' lat='-7.22247762035' lon='112.74247579353'>
+    <tag k='amenity' v='marketplace' />
+    <tag k='name' v='Pasar' />
+  </node>
+  <node id='-5014' action='modify' visible='true' lat='-7.22697790843' lon='112.74549671767'>
+    <tag k='amenity' v='marketplace' />
+    <tag k='name' v='Pasar' />
+  </node>
+  <node id='-5016' action='modify' visible='true' lat='-7.22688127844' lon='112.735264082'>
+    <tag k='amenity' v='marketplace' />
+    <tag k='name' v='Pasar' />
+  </node>
+  <node id='-5018' action='modify' visible='true' lat='-7.22946348056' lon='112.70754173089'>
+    <tag k='amenity' v='marketplace' />
+    <tag k='name' v='Pasar' />
+  </node>
+  <node id='-5020' action='modify' visible='true' lat='-7.23881533272' lon='112.71649894807'>
+    <tag k='amenity' v='marketplace' />
+    <tag k='name' v='Pasar' />
+  </node>
+  <node id='-5022' action='modify' visible='true' lat='-7.23703678279' lon='112.73249202567'>
+    <tag k='amenity' v='marketplace' />
+    <tag k='name' v='Pasar' />
+  </node>
+  <node id='-5024' action='modify' visible='true' lat='-7.23949704543' lon='112.74881915286'>
+    <tag k='amenity' v='marketplace' />
+    <tag k='name' v='Pasar' />
+  </node>
+  <node id='-5026' action='modify' visible='true' lat='-7.24154481529' lon='112.74532244087'>
+    <tag k='amenity' v='marketplace' />
+    <tag k='name' v='Pasar' />
+  </node>
+  <node id='-5028' action='modify' visible='true' lat='-7.24771420105' lon='112.74927692929'>
+    <tag k='amenity' v='marketplace' />
+    <tag k='name' v='Pasar' />
+  </node>
+  <node id='-5030' action='modify' visible='true' lat='-7.24996503185' lon='112.63530949757'>
+    <tag k='amenity' v='marketplace' />
+    <tag k='name' v='Pasar' />
+  </node>
+  <node id='-5032' action='modify' visible='true' lat='-7.24243171859' lon='112.74275323768'>
+    <tag k='amenity' v='police' />
+    <tag k='name' v='Kantor Polisi' />
+  </node>
+  <node id='-5034' action='modify' visible='true' lat='-7.1992546465' lon='112.73389129115'>
+    <tag k='amenity' v='police' />
+    <tag k='name' v='Kantor Polisi' />
+  </node>
+  <node id='-5036' action='modify' visible='true' lat='-7.22215195204' lon='112.73777211147'>
+    <tag k='amenity' v='police' />
+    <tag k='name' v='Kantor Polisi' />
+  </node>
+  <node id='-5038' action='modify' visible='true' lat='-7.22553242654' lon='112.74516468637'>
+    <tag k='amenity' v='police' />
+    <tag k='name' v='Kantor Polisi' />
+  </node>
+  <node id='-5040' action='modify' visible='true' lat='-7.22649862963' lon='112.73604408062'>
+    <tag k='amenity' v='police' />
+    <tag k='name' v='Kantor Polisi' />
+  </node>
+  <node id='-5042' action='modify' visible='true' lat='-7.23016464267' lon='112.70864845128'>
+    <tag k='amenity' v='police' />
+    <tag k='name' v='Kantor Polisi' />
+  </node>
+  <node id='-5044' action='modify' visible='true' lat='-7.23604956334' lon='112.73530700815'>
+    <tag k='amenity' v='police' />
+    <tag k='name' v='Kantor Polisi' />
+  </node>
+  <node id='-5046' action='modify' visible='true' lat='-7.23817629376' lon='112.74663419444'>
+    <tag k='amenity' v='police' />
+    <tag k='name' v='Kantor Polisi' />
+  </node>
+  <node id='-5048' action='modify' visible='true' lat='-7.24923881919' lon='112.73129869315'>
+    <tag k='amenity' v='police' />
+    <tag k='name' v='Kantor Polisi' />
+  </node>
+  <node id='-5050' action='modify' visible='true' lat='-7.24310198403' lon='112.63024629439'>
+    <tag k='amenity' v='police' />
+    <tag k='name' v='Kantor Polisi' />
+  </node>
+  <node id='-5052' action='modify' visible='true' lat='-7.2484546703' lon='112.63537819276'>
+    <tag k='amenity' v='clinic' />
+    <tag k='name' v='RS/Puskesmas' />
+  </node>
+  <node id='-5054' action='modify' visible='true' lat='-7.24559055542' lon='112.72768273574'>
+    <tag k='amenity' v='clinic' />
+    <tag k='name' v='RS/Puskesmas' />
+  </node>
+  <node id='-5056' action='modify' visible='true' lat='-7.23323836746' lon='112.72080193796'>
+    <tag k='amenity' v='clinic' />
+    <tag k='name' v='RS/Puskesmas' />
+  </node>
+  <node id='-5058' action='modify' visible='true' lat='-7.23299992291' lon='112.73122031432'>
+    <tag k='amenity' v='clinic' />
+    <tag k='name' v='RS/Puskesmas' />
+  </node>
+  <node id='-5060' action='modify' visible='true' lat='-7.22890243679' lon='112.74112018146'>
+    <tag k='amenity' v='clinic' />
+    <tag k='name' v='RS/Puskesmas' />
+  </node>
+  <node id='-5062' action='modify' visible='true' lat='-7.22449124633' lon='112.72653238419'>
+    <tag k='amenity' v='clinic' />
+    <tag k='name' v='RS/Puskesmas' />
+  </node>
+  <node id='-5064' action='modify' visible='true' lat='-7.21009780147' lon='112.7357648095'>
+    <tag k='amenity' v='clinic' />
+    <tag k='name' v='RS/Puskesmas' />
+  </node>
+  <node id='-5066' action='modify' visible='true' lat='-7.24235634691' lon='112.74590725043'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5068' action='modify' visible='true' lat='-7.24300485847' lon='112.74657020266'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5070' action='modify' visible='true' lat='-7.2429007343' lon='112.74307757794'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5072' action='modify' visible='true' lat='-7.21391834044' lon='112.72969740326'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5074' action='modify' visible='true' lat='-7.22220125256' lon='112.73193914678'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5076' action='modify' visible='true' lat='-7.22418937682' lon='112.7298308767'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5078' action='modify' visible='true' lat='-7.23285048694' lon='112.74196440857'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5080' action='modify' visible='true' lat='-7.23727113792' lon='112.73031871004'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5082' action='modify' visible='true' lat='-7.21110576532' lon='112.65164905802'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5084' action='modify' visible='true' lat='-7.20854738773' lon='112.74162516841'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5086' action='modify' visible='true' lat='-7.2086450009' lon='112.73973106626'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5088' action='modify' visible='true' lat='-7.21391480639' lon='112.73301449269'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5090' action='modify' visible='true' lat='-7.2177771722' lon='112.73024392421'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5092' action='modify' visible='true' lat='-7.21766313149' lon='112.72932564445'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5094' action='modify' visible='true' lat='-7.22099809516' lon='112.7320879906'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5096' action='modify' visible='true' lat='-7.22426396443' lon='112.74350404082'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5098' action='modify' visible='true' lat='-7.22467642589' lon='112.74202192899'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5100' action='modify' visible='true' lat='-7.2251044635' lon='112.74121829818'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5102' action='modify' visible='true' lat='-7.22288409917' lon='112.7401912328'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5104' action='modify' visible='true' lat='-7.22362631113' lon='112.73999368811'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5106' action='modify' visible='true' lat='-7.22631311238' lon='112.74672387188'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5108' action='modify' visible='true' lat='-7.23218954109' lon='112.74926405591'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5110' action='modify' visible='true' lat='-7.23013117197' lon='112.74609960615'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5112' action='modify' visible='true' lat='-7.23060099668' lon='112.74382824993'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5114' action='modify' visible='true' lat='-7.22317242467' lon='112.73334232433'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5116' action='modify' visible='true' lat='-7.22588355977' lon='112.7360886931'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5118' action='modify' visible='true' lat='-7.22868936881' lon='112.732958697'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5120' action='modify' visible='true' lat='-7.23024872845' lon='112.73662656353'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5122' action='modify' visible='true' lat='-7.2244784329' lon='112.72752888788'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5124' action='modify' visible='true' lat='-7.22486179725' lon='112.72658015426'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5126' action='modify' visible='true' lat='-7.22884747532' lon='112.72705258147'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5128' action='modify' visible='true' lat='-7.23072315676' lon='112.72598788481'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5130' action='modify' visible='true' lat='-7.22955818174' lon='112.72321281959'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5132' action='modify' visible='true' lat='-7.23078073078' lon='112.72271782696'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5134' action='modify' visible='true' lat='-7.23154512122' lon='112.71904122166'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5136' action='modify' visible='true' lat='-7.23086762591' lon='112.71165313815'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5138' action='modify' visible='true' lat='-7.23490685771' lon='112.63103966721'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5140' action='modify' visible='true' lat='-7.23859173003' lon='112.63729057343'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5142' action='modify' visible='true' lat='-7.23663459376' lon='112.71212933507'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5144' action='modify' visible='true' lat='-7.24013490006' lon='112.7166460206'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5146' action='modify' visible='true' lat='-7.23837707912' lon='112.72001722722'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5148' action='modify' visible='true' lat='-7.23779338792' lon='112.71895735703'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5150' action='modify' visible='true' lat='-7.23839351425' lon='112.72284286543'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5152' action='modify' visible='true' lat='-7.23773512222' lon='112.72241427284'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5154' action='modify' visible='true' lat='-7.2385029641' lon='112.72735807264'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5156' action='modify' visible='true' lat='-7.24028118992' lon='112.7281537172'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5158' action='modify' visible='true' lat='-7.2349382333' lon='112.72556362201'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5160' action='modify' visible='true' lat='-7.23480492625' lon='112.72734340757'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5162' action='modify' visible='true' lat='-7.2348444711' lon='112.73121375599'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5164' action='modify' visible='true' lat='-7.24061972914' lon='112.72948884094'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5166' action='modify' visible='true' lat='-7.2395614582' lon='112.73197365398'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5168' action='modify' visible='true' lat='-7.2353242487' lon='112.73344130031'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5170' action='modify' visible='true' lat='-7.23426218566' lon='112.73454521081'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5172' action='modify' visible='true' lat='-7.23906646254' lon='112.74557205823'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5174' action='modify' visible='true' lat='-7.23624124308' lon='112.74667147211'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5176' action='modify' visible='true' lat='-7.24051532499' lon='112.74970698908'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5178' action='modify' visible='true' lat='-7.24877148889' lon='112.7494468343'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5180' action='modify' visible='true' lat='-7.24897744499' lon='112.74760675044'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5182' action='modify' visible='true' lat='-7.2446652037' lon='112.74506790257'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5184' action='modify' visible='true' lat='-7.24903519229' lon='112.73962194612'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5186' action='modify' visible='true' lat='-7.24061836503' lon='112.73696784932'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5188' action='modify' visible='true' lat='-7.2410115717' lon='112.73581545836'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5190' action='modify' visible='true' lat='-7.24185812574' lon='112.73670261783'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5192' action='modify' visible='true' lat='-7.24200608011' lon='112.73583397111'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5194' action='modify' visible='true' lat='-7.24301254234' lon='112.73511233088'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5196' action='modify' visible='true' lat='-7.24330696912' lon='112.73613266887'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5198' action='modify' visible='true' lat='-7.2439111652' lon='112.73656846963'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5200' action='modify' visible='true' lat='-7.24518547357' lon='112.73672558503'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5202' action='modify' visible='true' lat='-7.2449556648' lon='112.72582808538'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5204' action='modify' visible='true' lat='-7.24370288763' lon='112.72714073831'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5206' action='modify' visible='true' lat='-7.24336586948' lon='112.72540325486'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5208' action='modify' visible='true' lat='-7.24982340054' lon='112.72021287044'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5210' action='modify' visible='true' lat='-7.24887016176' lon='112.7188414156'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5212' action='modify' visible='true' lat='-7.24736977962' lon='112.71388509059'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5214' action='modify' visible='true' lat='-7.24739014805' lon='112.71327792865'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5216' action='modify' visible='true' lat='-7.24862550907' lon='112.71178125694'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5218' action='modify' visible='true' lat='-7.24842152443' lon='112.70592377301'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5220' action='modify' visible='true' lat='-7.24918720636' lon='112.63535597141'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5222' action='modify' visible='true' lat='-7.24251932361' lon='112.63639188079'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5224' action='modify' visible='true' lat='-7.24407970823' lon='112.63243991369'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5226' action='modify' visible='true' lat='-7.24667690262' lon='112.62934963017'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5228' action='modify' visible='true' lat='-7.23127620527' lon='112.73510988814'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5230' action='modify' visible='true' lat='-7.20968204701' lon='112.74047233063'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5232' action='modify' visible='true' lat='-7.2065754072' lon='112.73473002854'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5234' action='modify' visible='true' lat='-7.23916278213' lon='112.73693510202'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5236' action='modify' visible='true' lat='-7.23487555475' lon='112.73729499112'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5238' action='modify' visible='true' lat='-7.23145643553' lon='112.73528319056'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5240' action='modify' visible='true' lat='-7.21756325466' lon='112.73656111225'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5242' action='modify' visible='true' lat='-7.21726597239' lon='112.73628837347'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5244' action='modify' visible='true' lat='-7.21750206975' lon='112.73601027762'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5246' action='modify' visible='true' lat='-7.21797056268' lon='112.73645120166'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5248' action='modify' visible='true' lat='-7.19902920246' lon='112.73374448454'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5250' action='modify' visible='true' lat='-7.19722053506' lon='112.73382473772'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5252' action='modify' visible='true' lat='-7.19637840678' lon='112.73414860108'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5254' action='modify' visible='true' lat='-7.19684120485' lon='112.73370840403'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5256' action='modify' visible='true' lat='-7.19686700208' lon='112.7340576611'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5258' action='modify' visible='true' lat='-7.19703045084' lon='112.73386529987'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5260' action='modify' visible='true' lat='-7.20832248182' lon='112.73658591274'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5262' action='modify' visible='true' lat='-7.24223625668' lon='112.73476248277'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5264' action='modify' visible='true' lat='-7.21248301469' lon='112.74335880677'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5266' action='modify' visible='true' lat='-7.20819152163' lon='112.73771996469'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5268' action='modify' visible='true' lat='-7.23638982811' lon='112.73381202795'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5270' action='modify' visible='true' lat='-7.20995487236' lon='112.72574159361'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5272' action='modify' visible='true' lat='-7.23126318849' lon='112.72902144666'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5274' action='modify' visible='true' lat='-7.21940701286' lon='112.72964351993'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5276' action='modify' visible='true' lat='-7.20696170701' lon='112.733008434'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5278' action='modify' visible='true' lat='-7.21870379004' lon='112.71230848481'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5280' action='modify' visible='true' lat='-7.24030927659' lon='112.68693511636'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5282' action='modify' visible='true' lat='-7.23791348996' lon='112.68928660841'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5284' action='modify' visible='true' lat='-7.22798027218' lon='112.69307068663'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5286' action='modify' visible='true' lat='-7.22786037253' lon='112.67413115671'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5288' action='modify' visible='true' lat='-7.22855183563' lon='112.67544267615'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5290' action='modify' visible='true' lat='-7.22299032567' lon='112.67805756927'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5292' action='modify' visible='true' lat='-7.23285536748' lon='112.72165610114'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Vihara' />
+    <tag k='religion' v='buddhist' />
+  </node>
+  <node id='-5294' action='modify' visible='true' lat='-7.23087507796' lon='112.72167353439'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Vihara' />
+    <tag k='religion' v='buddhist' />
+  </node>
+  <node id='-5296' action='modify' visible='true' lat='-7.23977353079' lon='112.7474660169'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Vihara' />
+    <tag k='religion' v='buddhist' />
+  </node>
+  <node id='-5298' action='modify' visible='true' lat='-7.24804839992' lon='112.74466774018'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Vihara' />
+    <tag k='religion' v='buddhist' />
+  </node>
+  <node id='-5300' action='modify' visible='true' lat='-7.2242409724' lon='112.73290896872'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Gereja' />
+    <tag k='religion' v='christian' />
+  </node>
+  <node id='-5302' action='modify' visible='true' lat='-7.22975552855' lon='112.71164894979'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Gereja' />
+    <tag k='religion' v='christian' />
+  </node>
+  <node id='-5304' action='modify' visible='true' lat='-7.24239120634' lon='112.73679918021'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Gereja' />
+    <tag k='religion' v='christian' />
+  </node>
+  <node id='-5306' action='modify' visible='true' lat='-7.21780173668' lon='112.72853225638'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Gereja' />
+    <tag k='religion' v='christian' />
+  </node>
+  <node id='-5308' action='modify' visible='true' lat='-7.21953914685' lon='112.73055791515'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Gereja' />
+    <tag k='religion' v='christian' />
+  </node>
+  <node id='-5310' action='modify' visible='true' lat='-7.22439007839' lon='112.72698869108'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Gereja' />
+    <tag k='religion' v='christian' />
+  </node>
+  <node id='-5312' action='modify' visible='true' lat='-7.22540245581' lon='112.72467577631'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Gereja' />
+    <tag k='religion' v='christian' />
+  </node>
+  <node id='-5314' action='modify' visible='true' lat='-7.23429306654' lon='112.73118052076'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Gereja' />
+    <tag k='religion' v='christian' />
+  </node>
+  <node id='-5316' action='modify' visible='true' lat='-7.23859910443' lon='112.74247929692'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Gereja' />
+    <tag k='religion' v='christian' />
+  </node>
+  <node id='-5318' action='modify' visible='true' lat='-7.23967211141' lon='112.74560268394'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Gereja' />
+    <tag k='religion' v='christian' />
+  </node>
+  <node id='-5320' action='modify' visible='true' lat='-7.24904240307' lon='112.74717007558'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Gereja' />
+    <tag k='religion' v='christian' />
+  </node>
+  <node id='-5322' action='modify' visible='true' lat='-7.24738435841' lon='112.74100381229'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Gereja' />
+    <tag k='religion' v='christian' />
+  </node>
+  <node id='-5324' action='modify' visible='true' lat='-7.24838708551' lon='112.73414084775'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Gereja' />
+    <tag k='religion' v='christian' />
+  </node>
+  <node id='-5326' action='modify' visible='true' lat='-7.24315129227' lon='112.73191321622'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Gereja' />
+    <tag k='religion' v='christian' />
+  </node>
+  <node id='-5328' action='modify' visible='true' lat='-7.21087852922' lon='112.65198838488'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5330' action='modify' visible='true' lat='-7.21184705655' lon='112.72509184968'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5332' action='modify' visible='true' lat='-7.21454715157' lon='112.73318211545'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5334' action='modify' visible='true' lat='-7.20957545893' lon='112.74232459433'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5336' action='modify' visible='true' lat='-7.22375139475' lon='112.74511260965'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5338' action='modify' visible='true' lat='-7.2322150514' lon='112.74970673687'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5340' action='modify' visible='true' lat='-7.2304692787' lon='112.73568407803'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5342' action='modify' visible='true' lat='-7.22668607203' lon='112.72953882324'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5344' action='modify' visible='true' lat='-7.22947183135' lon='112.72691966956'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5346' action='modify' visible='true' lat='-7.22899467501' lon='112.68286554688'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5348' action='modify' visible='true' lat='-7.23390574017' lon='112.74500615525'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5350' action='modify' visible='true' lat='-7.23764085092' lon='112.7471544607'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5352' action='modify' visible='true' lat='-7.24243754112' lon='112.73413168677'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5354' action='modify' visible='true' lat='-7.2431608461' lon='112.72702212666'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5356' action='modify' visible='true' lat='-7.24863307148' lon='112.62849358503'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5358' action='modify' visible='true' lat='-7.242790051' lon='112.63149246727'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5360' action='modify' visible='true' lat='-7.22941275912' lon='112.70176651493'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5362' action='modify' visible='true' lat='-7.23971215599' lon='112.72084341945'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5364' action='modify' visible='true' lat='-7.24769694585' lon='112.72540390411'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5366' action='modify' visible='true' lat='-7.23778373053' lon='112.74761282998'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5368' action='modify' visible='true' lat='-7.19885126108' lon='112.64728370139'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5370' action='modify' visible='true' lat='-7.21183757688' lon='112.65182604168'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5372' action='modify' visible='true' lat='-7.22316649552' lon='112.7325234434'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5374' action='modify' visible='true' lat='-7.22173751332' lon='112.73500502888'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5376' action='modify' visible='true' lat='-7.22197059329' lon='112.74263511367'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5378' action='modify' visible='true' lat='-7.23366751135' lon='112.74583874549'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5380' action='modify' visible='true' lat='-7.23156317843' lon='112.74284389397'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5382' action='modify' visible='true' lat='-7.22704313408' lon='112.74025806358'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5384' action='modify' visible='true' lat='-7.2330217121' lon='112.73499776923'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5386' action='modify' visible='true' lat='-7.22646207716' lon='112.7289861626'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5388' action='modify' visible='true' lat='-7.22918232102' lon='112.68346099693'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5390' action='modify' visible='true' lat='-7.22567101974' lon='112.66456841847'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5392' action='modify' visible='true' lat='-7.23455813881' lon='112.72328501572'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5394' action='modify' visible='true' lat='-7.23982558663' lon='112.72907838557'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5396' action='modify' visible='true' lat='-7.23709618263' lon='112.73351145163'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5398' action='modify' visible='true' lat='-7.24026345485' lon='112.73994988815'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5400' action='modify' visible='true' lat='-7.24064770604' lon='112.74819202815'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5402' action='modify' visible='true' lat='-7.24301552444' lon='112.72004331902'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5404' action='modify' visible='true' lat='-7.24387033931' lon='112.71633701215'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5406' action='modify' visible='true' lat='-7.24957517139' lon='112.67285807891'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5408' action='modify' visible='true' lat='-7.24963080584' lon='112.63520928345'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5410' action='modify' visible='true' lat='-7.21688572972' lon='112.72926729555'>
+    <tag k='admin_level' v='6' />
+    <tag k='name' v='Kantor Camat' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5412' action='modify' visible='true' lat='-7.22538264219' lon='112.74414666188'>
+    <tag k='admin_level' v='6' />
+    <tag k='name' v='Kantor Camat' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5414' action='modify' visible='true' lat='-7.23295280446' lon='112.72218618939'>
+    <tag k='admin_level' v='6' />
+    <tag k='name' v='Kantor Camat' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5416' action='modify' visible='true' lat='-7.24887084528' lon='112.63531577939'>
+    <tag k='admin_level' v='6' />
+    <tag k='name' v='Kantor Camat' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5418' action='modify' visible='true' lat='-7.24592426654' lon='112.73976448606'>
+    <tag k='admin_level' v='4' />
+    <tag k='name' v='Kantor Gubernur' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5420' action='modify' visible='true' lat='-7.22341010431' lon='112.67947155343'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara Suar' />
+  </node>
+  <node id='-5422' action='modify' visible='true' lat='-7.20281660493' lon='112.75300414072'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara Suar' />
+  </node>
+  <node id='-5424' action='modify' visible='true' lat='-7.23269047456' lon='112.75773455156'>
+    <tag k='amenity' v='marketplace' />
+    <tag k='name' v='Pasar' />
+  </node>
+  <node id='-5426' action='modify' visible='true' lat='-7.21781620575' lon='112.76023137835'>
+    <tag k='amenity' v='marketplace' />
+    <tag k='name' v='Pasar' />
+  </node>
+  <node id='-5428' action='modify' visible='true' lat='-7.23384310778' lon='112.77293017457'>
+    <tag k='amenity' v='marketplace' />
+    <tag k='name' v='Pasar' />
+  </node>
+  <node id='-5430' action='modify' visible='true' lat='-7.24808507571' lon='112.75861135274'>
+    <tag k='amenity' v='marketplace' />
+    <tag k='name' v='Pasar' />
+  </node>
+  <node id='-5432' action='modify' visible='true' lat='-7.24906399291' lon='112.75564411808'>
+    <tag k='amenity' v='police' />
+    <tag k='name' v='Kantor Polisi' />
+  </node>
+  <node id='-5434' action='modify' visible='true' lat='-7.22205171136' lon='112.77786612868'>
+    <tag k='amenity' v='police' />
+    <tag k='name' v='Kantor Polisi' />
+  </node>
+  <node id='-5436' action='modify' visible='true' lat='-7.2112138984' lon='112.77705367038'>
+    <tag k='amenity' v='clinic' />
+    <tag k='name' v='RS/Puskesmas' />
+  </node>
+  <node id='-5438' action='modify' visible='true' lat='-7.23083662501' lon='112.77414358932'>
+    <tag k='amenity' v='clinic' />
+    <tag k='name' v='RS/Puskesmas' />
+  </node>
+  <node id='-5440' action='modify' visible='true' lat='-7.22651037874' lon='112.76360485238'>
+    <tag k='amenity' v='clinic' />
+    <tag k='name' v='RS/Puskesmas' />
+  </node>
+  <node id='-5442' action='modify' visible='true' lat='-7.24681176242' lon='112.76755273774'>
+    <tag k='amenity' v='clinic' />
+    <tag k='name' v='RS/Puskesmas' />
+  </node>
+  <node id='-5444' action='modify' visible='true' lat='-7.24936358021' lon='112.76467715466'>
+    <tag k='amenity' v='clinic' />
+    <tag k='name' v='RS/Puskesmas' />
+  </node>
+  <node id='-5446' action='modify' visible='true' lat='-7.24625302521' lon='112.75773048113'>
+    <tag k='amenity' v='clinic' />
+    <tag k='name' v='RS/Puskesmas' />
+  </node>
+  <node id='-5448' action='modify' visible='true' lat='-7.24218016439' lon='112.75176196528'>
+    <tag k='amenity' v='clinic' />
+    <tag k='name' v='RS/Puskesmas' />
+  </node>
+  <node id='-5450' action='modify' visible='true' lat='-7.21126547507' lon='112.77776122927'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5452' action='modify' visible='true' lat='-7.21288445481' lon='112.76127497182'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5454' action='modify' visible='true' lat='-7.2103973429' lon='112.75673509808'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5456' action='modify' visible='true' lat='-7.21330328553' lon='112.75111429583'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5458' action='modify' visible='true' lat='-7.21647420306' lon='112.75417988375'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5460' action='modify' visible='true' lat='-7.22099953169' lon='112.75066175558'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5462' action='modify' visible='true' lat='-7.2236733841' lon='112.75601734367'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5464' action='modify' visible='true' lat='-7.22248784218' lon='112.76567959118'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5466' action='modify' visible='true' lat='-7.21944708425' lon='112.7663864408'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5468' action='modify' visible='true' lat='-7.22099709135' lon='112.77701719212'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5470' action='modify' visible='true' lat='-7.21839985989' lon='112.777622668'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5472' action='modify' visible='true' lat='-7.2319683155' lon='112.78070205999'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5474' action='modify' visible='true' lat='-7.2328874296' lon='112.77687179031'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5476' action='modify' visible='true' lat='-7.22566705554' lon='112.77587876464'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5478' action='modify' visible='true' lat='-7.23031090742' lon='112.77445898457'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5480' action='modify' visible='true' lat='-7.23144355194' lon='112.77384321819'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5482' action='modify' visible='true' lat='-7.23270209323' lon='112.77339711756'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5484' action='modify' visible='true' lat='-7.22621929355' lon='112.7687163827'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5486' action='modify' visible='true' lat='-7.23117420672' lon='112.76402924123'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5488' action='modify' visible='true' lat='-7.22969365311' lon='112.76344683028'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5490' action='modify' visible='true' lat='-7.22700704974' lon='112.76376296395'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5492' action='modify' visible='true' lat='-7.23276297543' lon='112.76002889239'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5494' action='modify' visible='true' lat='-7.22987368353' lon='112.7566229578'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5496' action='modify' visible='true' lat='-7.2278082527' lon='112.75765400106'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5498' action='modify' visible='true' lat='-7.22615017144' lon='112.7585411029'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5500' action='modify' visible='true' lat='-7.22530420008' lon='112.75281676385'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5502' action='modify' visible='true' lat='-7.22958355487' lon='112.752147443'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5504' action='modify' visible='true' lat='-7.23199218704' lon='112.75357085607'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5506' action='modify' visible='true' lat='-7.23913860153' lon='112.77367975556'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5508' action='modify' visible='true' lat='-7.23335892129' lon='112.75788877145'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5510' action='modify' visible='true' lat='-7.23936950051' lon='112.75846042183'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5512' action='modify' visible='true' lat='-7.23760055042' lon='112.75762454199'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5514' action='modify' visible='true' lat='-7.23848626386' lon='112.75772189392'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5516' action='modify' visible='true' lat='-7.23730835945' lon='112.75366835583'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5518' action='modify' visible='true' lat='-7.239181061' lon='112.7510396179'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5520' action='modify' visible='true' lat='-7.24142441468' lon='112.75077889594'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5522' action='modify' visible='true' lat='-7.24852513926' lon='112.75236032795'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5524' action='modify' visible='true' lat='-7.2473117352' lon='112.7505005828'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5526' action='modify' visible='true' lat='-7.2438550034' lon='112.75356463878'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5528' action='modify' visible='true' lat='-7.24549577792' lon='112.75713958602'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5530' action='modify' visible='true' lat='-7.24885993041' lon='112.75932342449'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5532' action='modify' visible='true' lat='-7.24903760766' lon='112.76012941928'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5534' action='modify' visible='true' lat='-7.24711516021' lon='112.76158420508'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5536' action='modify' visible='true' lat='-7.24829499361' lon='112.76278629097'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5538' action='modify' visible='true' lat='-7.24675679876' lon='112.76538905894'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5540' action='modify' visible='true' lat='-7.24778863061' lon='112.76745358776'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5542' action='modify' visible='true' lat='-7.24514977149' lon='112.769440337'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5544' action='modify' visible='true' lat='-7.2424580963' lon='112.77106072321'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5546' action='modify' visible='true' lat='-7.24791654751' lon='112.77869457995'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5548' action='modify' visible='true' lat='-7.24470668428' lon='112.79024262839'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5550' action='modify' visible='true' lat='-7.24302365264' lon='112.79056814781'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5552' action='modify' visible='true' lat='-7.24302707956' lon='112.7896972537'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5554' action='modify' visible='true' lat='-7.24212040863' lon='112.79033709479'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5556' action='modify' visible='true' lat='-7.23999286901' lon='112.79562480616'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5558' action='modify' visible='true' lat='-7.24063933945' lon='112.79678234269'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5560' action='modify' visible='true' lat='-7.24198916753' lon='112.79840160038'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Sekolah' />
+  </node>
+  <node id='-5562' action='modify' visible='true' lat='-7.23175048849' lon='112.7669943957'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5564' action='modify' visible='true' lat='-7.24767827466' lon='112.8001880832'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5566' action='modify' visible='true' lat='-7.24823128245' lon='112.79980995928'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5568' action='modify' visible='true' lat='-7.24614448894' lon='112.79934901173'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5570' action='modify' visible='true' lat='-7.24482691619' lon='112.79871903055'>
+    <tag k='man_made' v='tower' />
+    <tag k='name' v='Menara' />
+  </node>
+  <node id='-5572' action='modify' visible='true' lat='-7.2480083876' lon='112.76207439614'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Gereja' />
+    <tag k='religion' v='christian' />
+  </node>
+  <node id='-5574' action='modify' visible='true' lat='-7.22960836515' lon='112.75978582885'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Gereja' />
+    <tag k='religion' v='christian' />
+  </node>
+  <node id='-5576' action='modify' visible='true' lat='-7.23050498432' lon='112.7640764409'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Gereja' />
+    <tag k='religion' v='christian' />
+  </node>
+  <node id='-5578' action='modify' visible='true' lat='-7.24758973092' lon='112.79053921416'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Gereja' />
+    <tag k='religion' v='christian' />
+  </node>
+  <node id='-5580' action='modify' visible='true' lat='-7.24736600524' lon='112.7899633693'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Gereja' />
+    <tag k='religion' v='christian' />
+  </node>
+  <node id='-5582' action='modify' visible='true' lat='-7.24444126946' lon='112.79334266098'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Gereja' />
+    <tag k='religion' v='christian' />
+  </node>
+  <node id='-5584' action='modify' visible='true' lat='-7.2420190493' lon='112.77003421939'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Gereja' />
+    <tag k='religion' v='christian' />
+  </node>
+  <node id='-5586' action='modify' visible='true' lat='-7.22434168596' lon='112.75623322196'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5588' action='modify' visible='true' lat='-7.22312728548' lon='112.76865232241'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5590' action='modify' visible='true' lat='-7.21912642116' lon='112.776778453'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5592' action='modify' visible='true' lat='-7.23276473661' lon='112.78513257904'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5594' action='modify' visible='true' lat='-7.23318196024' lon='112.77322585669'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5596' action='modify' visible='true' lat='-7.22998320527' lon='112.75167818248'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5598' action='modify' visible='true' lat='-7.23860886614' lon='112.76108432524'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5600' action='modify' visible='true' lat='-7.23949217943' lon='112.77111820842'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5602' action='modify' visible='true' lat='-7.24435303651' lon='112.79049873521'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5604' action='modify' visible='true' lat='-7.24700608446' lon='112.76639848246'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5606' action='modify' visible='true' lat='-7.22056829866' lon='112.75229435401'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5608' action='modify' visible='true' lat='-7.24904479158' lon='112.77458038445'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5610' action='modify' visible='true' lat='-7.24572918354' lon='112.76924168449'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5612' action='modify' visible='true' lat='-7.24739056804' lon='112.79748535914'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5614' action='modify' visible='true' lat='-7.24142879734' lon='112.79835585299'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5616' action='modify' visible='true' lat='-7.24037115483' lon='112.77989128053'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5618' action='modify' visible='true' lat='-7.24106849487' lon='112.79571850402'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5620' action='modify' visible='true' lat='-7.231728561' lon='112.79342936478'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5622' action='modify' visible='true' lat='-7.22947822453' lon='112.77469792502'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5624' action='modify' visible='true' lat='-7.23404367989' lon='112.76553484015'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5626' action='modify' visible='true' lat='-7.23308329485' lon='112.76371240797'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5628' action='modify' visible='true' lat='-7.23248078799' lon='112.76518301966'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5630' action='modify' visible='true' lat='-7.23175681013' lon='112.76536356953'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5632' action='modify' visible='true' lat='-7.21221679526' lon='112.763260254'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5634' action='modify' visible='true' lat='-7.21691575854' lon='112.76862474985'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5636' action='modify' visible='true' lat='-7.22076291474' lon='112.7628124053'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5638' action='modify' visible='true' lat='-7.22641995716' lon='112.77060832413'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5640' action='modify' visible='true' lat='-7.22101091883' lon='112.78738667211'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5642' action='modify' visible='true' lat='-7.23927384444' lon='112.7668211152'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5644' action='modify' visible='true' lat='-7.22580675632' lon='112.75849162028'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5646' action='modify' visible='true' lat='-7.22213451414' lon='112.75883563148'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5648' action='modify' visible='true' lat='-7.21782595269' lon='112.75535250529'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5650' action='modify' visible='true' lat='-7.2052807157' lon='112.76353390996'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5652' action='modify' visible='true' lat='-7.24293490136' lon='112.75535160889'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5654' action='modify' visible='true' lat='-7.24109731429' lon='112.76291726942'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5656' action='modify' visible='true' lat='-7.2482768132' lon='112.76514202369'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5658' action='modify' visible='true' lat='-7.24420729482' lon='112.76301088406'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5660' action='modify' visible='true' lat='-7.24670526428' lon='112.75535029817'>
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name' v='Masjid' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='-5662' action='modify' visible='true' lat='-7.22694350156' lon='112.77547746186'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5664' action='modify' visible='true' lat='-7.24585034644' lon='112.76830448718'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5666' action='modify' visible='true' lat='-7.24202012312' lon='112.79743070272'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5668' action='modify' visible='true' lat='-7.23303255262' lon='112.75810708217'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5670' action='modify' visible='true' lat='-7.21224855808' lon='112.76205684897'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5672' action='modify' visible='true' lat='-7.20912630085' lon='112.77448053795'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5674' action='modify' visible='true' lat='-7.22301903776' lon='112.78714841759'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5676' action='modify' visible='true' lat='-7.23252751937' lon='112.77409755702'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5678' action='modify' visible='true' lat='-7.24050865731' lon='112.79553747978'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5680' action='modify' visible='true' lat='-7.24790728296' lon='112.79256130787'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5682' action='modify' visible='true' lat='-7.24831696769' lon='112.77803517515'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5684' action='modify' visible='true' lat='-7.24851233772' lon='112.75567819265'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5686' action='modify' visible='true' lat='-7.24800105188' lon='112.75227796557'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5688' action='modify' visible='true' lat='-7.2364378391' lon='112.75431968921'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5690' action='modify' visible='true' lat='-7.23204911928' lon='112.75287106801'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5692' action='modify' visible='true' lat='-7.22596749965' lon='112.75195917908'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5694' action='modify' visible='true' lat='-7.22322743429' lon='112.75207084014'>
+    <tag k='admin_level' v='7' />
+    <tag k='name' v='Kantor Lurah' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5696' action='modify' visible='true' lat='-7.22652675596' lon='112.77568913176'>
+    <tag k='admin_level' v='6' />
+    <tag k='name' v='Kantor Camat' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5698' action='modify' visible='true' lat='-7.24884507604' lon='112.7561514211'>
+    <tag k='admin_level' v='6' />
+    <tag k='name' v='Kantor Camat' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='-5700' action='modify' visible='true' lat='-7.22794731801' lon='112.74498611239'>
+    <tag k='amenity' v='post_office' />
+    <tag k='name' v='Layanan Pos' />
+  </node>
+  <node id='-5702' action='modify' visible='true' lat='-7.24317402213' lon='112.73780555937'>
+    <tag k='amenity' v='post_office' />
+    <tag k='name' v='Layanan Pos' />
+  </node>
+  <node id='-5704' action='modify' visible='true' lat='-7.24374444107' lon='112.75878744441'>
+    <tag k='amenity' v='post_office' />
+    <tag k='name' v='Layanan Pos' />
+  </node>
+  <node id='-5706' action='modify' visible='true' lat='-7.24799236228' lon='112.79161711262'>
+    <tag k='amenity' v='post_office' />
+    <tag k='name' v='Layanan Pos' />
+  </node>
+  <node id='-5708' action='modify' visible='true' lat='-7.24823510264' lon='112.64111664306'>
+    <tag k='amenity' v='post_office' />
+    <tag k='name' v='Layanan Pos' />
+  </node>
+</osm>
