@@ -73,7 +73,7 @@ _Timeline_ survei pemetaan berbeda dengan kerangka kerja yang sebelumnya telah d
 
 #### 1. **Sebelum Survei Pemetaan**
 
-Pada tahapan ini, kegiatan yang dilakukan akan berfokus pada persiapan peralatan survei. Peralatan survei lapangan terdiri dari GPS,_ smartphone_ dan peta cetak. Semua peralatan itu harus dipersiapkan sebelum survei pemetaan dilaksanakan oleh _data entry._ Pada _smartphone_ akan dipasang aplikasi _ODK Collect, OpenMapKit (OMK)_, dan _OSMTracker_, dimana aplikasi OMK membutuhkan dua jenis data yang harus dipersiapkan yaitu batas administrasi dalam format *.osm* dan citra satelit dalam format _.mbtiles_. Peran _mapping supervisor_ sangat dominan di dalam bagian sebelum survei pemetaan, dimana mereka harus mempersiapkan peralatan yang diperlukan dalam pemetaan. Persiapan survei pemetaan terdiri dari:
+Pada tahapan ini, kegiatan yang dilakukan akan berfokus pada persiapan peralatan survei. Peralatan survei lapangan terdiri dari GPS, _smartphone_ dan peta cetak. Semua peralatan itu harus dipersiapkan sebelum survei pemetaan dilaksanakan oleh _data entry._ Pada _smartphone_ akan dipasang aplikasi _ODK Collect, OpenMapKit (OMK)_, dan _OSMTracker_, dimana aplikasi OMK membutuhkan dua jenis data yang harus dipersiapkan yaitu batas administrasi dalam format *.osm* dan citra satelit dalam format _.mbtiles_. Peran _mapping supervisor_ sangat dominan di dalam bagian sebelum survei pemetaan, dimana mereka harus mempersiapkan peralatan yang diperlukan dalam pemetaan. Persiapan survei pemetaan terdiri dari:
 
 *   Membuat MBTiles untuk citra satelit
 *   Membuat peta survei berdasarkan batas administrasi
