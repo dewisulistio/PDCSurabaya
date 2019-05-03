@@ -17,6 +17,8 @@ _Export tool_ adalah sebuah layanan terbuka yang digunakan untuk men-_download_ 
 
 ![Halaman muka Export Tool](../images/0101_tampilanexporttool.png "Halaman muka Export Tool")
 
+<center><img src="../images/0101_tampilanexporttool.png" width=500px alt="test" title="Halaman Export Tool"></center>
+
 *   Anda harus masuk menggunakan akun OSM dengan klik **_Login_** di sudut kanan atas. Apabila muncul _‘Authorize access to your account’_ klik **_Grant Access_**. Jika belum memiliki akun OSM, Anda dapat membuka pada modul **Memulai Menggunakan OSM**.
 *   Sekarang Anda sudah berhasil masuk dengan menggunakan akun OSM, kemudian klik **_Start Exporting_** untuk memulai proses _download_ data OSM.
 *   Akan muncul formulir isian dan peta seperti gambar di bawah ini, formulir isian harus  diisi dan Anda dapat memilih area yang diinginkan pada peta di sebelah kanan. 
