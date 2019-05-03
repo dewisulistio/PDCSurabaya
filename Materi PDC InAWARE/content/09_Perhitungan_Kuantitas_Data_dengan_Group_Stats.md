@@ -170,7 +170,7 @@ Perhitungan objek jalan berbeda dengan perhitungan objek dalam bentuk _point_ da
 
 *   Untuk memudahkan proses perhitungan kuantitas data untuk panjang jalan, Anda akan melakukan filter perhitungan berdasarkan administrasi kecamatan, langkah yang diperlukan yaitu klik kanan pada **_layer_ “jalan_admin_utm” → Filter → (ikuti  langkah-langkah seperti gambar di bawah) → OK**.
 
-![Filter berdasarkan Kecamatan](images/0922_filtermenu.png "Filter berdasarkan Kecamatan")
+![Filter berdasarkan Kecamatan](../images/0922_filtermenu.png "Filter berdasarkan Kecamatan")
 
 *   Buka _plugin **Group Stats**_ dengan klik **_Menu Vector → Group Stats → Group Stats_**. 
 *   Pada bagian **_Value_**, Anda dapat menggunakan formula **“sum”** untuk menghitung panjang jalan yang terdapat di kolom **Panjang_Jl** yang telah dihitung sebelumnya.
