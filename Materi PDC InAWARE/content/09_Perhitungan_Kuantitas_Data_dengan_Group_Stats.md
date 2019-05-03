@@ -89,7 +89,7 @@ Data OSM yang dihasilkan dari proyek pemetaan terdiri dari _points, lines,_ dan 
    
 *   Ketika Anda klik **OK** akan tampil objek OSM yang hanya ada di Kecamatan Candisari
 
-![Tabel atribut hasil filter](images/0911_filtercandisari.png "Tabel atribut hasil filter")
+![Tabel atribut hasil filter](../images/0911_filtercandisari.png "Tabel atribut hasil filter")
 
 *   Sekarang Anda akan memulai proses perhitungan dengan _plugin_ **_Group Stats_**. Buka **_Menu Vector → Group Stats → GroupStats_** 
 
