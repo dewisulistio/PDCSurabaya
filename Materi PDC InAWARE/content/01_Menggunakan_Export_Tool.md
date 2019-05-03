@@ -28,8 +28,6 @@ _Export tool_ adalah sebuah layanan terbuka yang digunakan untuk men-_download_ 
 *   Ada beberapa cara untuk menggambarkan area yang akan dipilih
 1. **_Box_** = Menggambar area dengan menggunakan kotak. Jika Anda ingin mengulang untuk pembuatan kotak klik tanda X pada kolom _Box_. 
 
-![Penentuan Area dengan Bentuk Kotak](../images/0103_Penentuan_Area_dengan_Kotak.png "Penentuan Area dengan Bentuk Kotak")
-
 <p align="center">
   <img width=70% src="../images/0103_Penentuan_Area_dengan_Kotak.png">
 </p>
