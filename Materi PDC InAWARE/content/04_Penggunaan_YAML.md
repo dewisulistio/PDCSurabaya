@@ -230,7 +230,7 @@ Tabel Model Data OSM untuk Objek Bank
 *   Jika sudah menyelesaikan formulir isian dan menentukan area yang akan di _download_, pilih menu **_Format_**. Pilih data spasial yang Anda inginkan, misalnya _.shapefile_
 
 <p align="center">
-  <img width=70% src="../images/0408_Format_data_spasial.png">
+  <img width=50% src="../images/0408_Format_data_spasial.png">
 </p>
 <p align="center"><i>Format data spasial</i><p align="center">
 
