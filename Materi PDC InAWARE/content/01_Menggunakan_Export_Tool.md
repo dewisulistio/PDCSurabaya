@@ -16,47 +16,73 @@ _Export tool_ adalah sebuah layanan terbuka yang digunakan untuk men-_download_ 
 *   Buka halaman situs Anda, dan ketikkan link berikut ini https://export.hotosm.org
 
 ![Halaman muka Export Tool](../images/0101_tampilanexporttool.png "Halaman muka Export Tool")
-
-<center><img src="../images/0101_tampilanexporttool.png" width=500px alt="test" title="Halaman Export Tool"></center>
+<p align="center">Halaman muka Export Tool<p align="center">
 
 *   Anda harus masuk menggunakan akun OSM dengan klik **_Login_** di sudut kanan atas. Apabila muncul _‘Authorize access to your account’_ klik **_Grant Access_**. Jika belum memiliki akun OSM, Anda dapat membuka pada modul **Memulai Menggunakan OSM**.
 *   Sekarang Anda sudah berhasil masuk dengan menggunakan akun OSM, kemudian klik **_Start Exporting_** untuk memulai proses _download_ data OSM.
 *   Akan muncul formulir isian dan peta seperti gambar di bawah ini, formulir isian harus  diisi dan Anda dapat memilih area yang diinginkan pada peta di sebelah kanan. 
 
 ![Lembar kerja Export Tool](../images/0102_lembarkerjaet.png "Lembar kerja Export Tool")
+<p align="center">Lembar kerja Export Tool<p align="center">
 
 *   Ada beberapa cara untuk menggambarkan area yang akan dipilih
 1. **_Box_** = Menggambar area dengan menggunakan kotak. Jika Anda ingin mengulang untuk pembuatan kotak klik tanda X pada kolom _Box_. 
 
 ![Penentuan Area dengan Bentuk Kotak](../images/0103_Penentuan_Area_dengan_Kotak.png "Penentuan Area dengan Bentuk Kotak")
 
+<p align="center">
+  <img width=70% src="../images/0103_Penentuan_Area_dengan_Kotak.png">
+</p>
+<p align="center">Penentuan area dengan kotak<p align="center">
+
 2. **_Draw_** = Menggambar area yang dipilih secara manual
 
-![Penentuan Area dengan Bentuk Manual](../images/0104_penentuan_manual.png "Penentuan Area dengan Bentuk Manual")
+<p align="center">
+  <img width=70% src="../images/0104_penentuan_manual.png">
+</p>
+<p align="center">Penentuan Area dengan Bentuk Manual<p align="center">
 
 3. **_Import_** = Menggunakan poligon dalam format .geojson untuk memilih area yang akan di-_download_. Cara mendapatkan _file_ _.geojson_ dapat Anda lihat pada modul **Menggunakan GeoJSON**.
 
-![Penentuan area dengan berdasarkan admin](../images/0105_penentuangeojson.png "Penentuan area dengan berdasarkan admin")
+<p align="center">
+  <img width=70% src="../images/0105_penentuangeojson.png">
+</p>
+<p align="center">Penentuan area dengan berdasarkan admin<p align="center">
   
 *   Jika sudah menyelesaikan formulir isian dan menentukan area yang akan di _download_, pilih menu **_Format_**. Pilih data spasial yang Anda inginkan, misalnya _shapefile_
 
-![Format data spasial](../images/0106_menuformat.png "Format data spasial")
+<p align="center">
+  <img width=70% src="../images/0106_menuformat.png">
+</p>
+<p align="center">Format data spasial<p align="center">
 
 *   Selanjutnya klik Menu **Data**, pada bagian ini halaman yang akan muncul akan menyesuaikan pemilihan tipe data spasial yang Anda pilih sebelumnya pada **_Menu Format_**. Pada bagian **_Tag Tree_**, menunjukkan informasi objek yang sesuai dengan presets OSM secara global. Anda harus memberikan tanda centang untuk data OSM yang akan di-_download_ sesuai dengan kebutuhan data yang diinginkan. Sebagai contoh, jika kita akan men-_download_ data bangunan dan jalan, berikan tanda centang pada **_Buildings dan Transportation > Roads_**
 
-![Pilihan Objek di Export Tool](../images/0107_buildingandroads.png "Pilihan Objek di Export Tool")
+<p align="center">
+  <img width=70% src="../images/0107_buildingandroads.png">
+</p>
+<p align="center">Pilihan Objek di Export Tool<p align="center">
 
 *   Klik Menu **_Summary_**, Anda harus memilih apakah _file_ ekspor ini akan dipublikasikan kepada umum atau hanya ada pada akun Anda. Kemudian klik **_Create Export_** untuk memulai proses _export_ data OSM.
 
-![Menu Summary](../images/0108_menusummary.png "Menu Summary")
+<p align="center">
+  <img width=70% src="../images/0108_menusummary.png">
+</p>
+<p align="center">Menu Summary<p align="center">
 
 *   Tunggu beberapa saat sampai proses selesai. Jika _file export_ Anda telah selesai, _Export Tool_ akan memberikan pemberitahuan melalui email, atau Anda dapat melihat hasilnya di Menu **_Exports_**
 
-![Menu Exports](../images/0109_menuexporttool.png "Menu Exports")
+<p align="center">
+  <img width=90% src="../images/0109_menuexporttool.png">
+</p>
+<p align="center">Menu Exports<p align="center">
 
 *   Jika proses sudah selesai akan muncul kotak dialog seperti di bawah ini, klik **nama file.shp.zip** untuk menyimpan hasil ekspor data OSM di direktori laptop/komputer Anda.
 
-![Proses Export Tool Selesai](../images/0110_selesaiexport.png "Proses Export Tool Selesai")
+<p align="center">
+  <img width=70% src="../images/0110_selesaiexport.png">
+</p>
+<p align="center">Proses Export Tool Selesai<p align="center">
 
 
 **RINGKASAN**
