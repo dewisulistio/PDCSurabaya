@@ -50,7 +50,7 @@ _Export tool_ adalah sebuah layanan terbuka yang digunakan untuk men-_download_ 
 *   Jika sudah menyelesaikan formulir isian dan menentukan area yang akan di _download_, pilih menu **_Format_**. Pilih data spasial yang Anda inginkan, misalnya _shapefile_
 
 <p align="center">
-  <img width=70% src="../images/0106_menuformat.png">
+  <img width=50% src="../images/0106_menuformat.png">
 </p>
 <p align="center"><i>Format data spasial</i><p align="center">
 
