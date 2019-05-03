@@ -19,7 +19,7 @@ Kuantitas adalah kualitas sesuatu hal yang terbentuk dari proses perhitungan dan
  
 *   Anda memerlukan koneksi internet untuk menginstal _plugin_, pada kotak **_Search_** ketikkan **_Group Stats_**. **Berikan tanda centang pada _group stats_ _→ Install Plugin_**. Tunggu beberapa saat hingga proses instalasi _plugin_ selesai.
 
-![Plugin Group Stats](../images/0802_plugingroupstats.png "Plugin Group Stats")
+![Plugin Group Stats](../images/0902_plugingroupstats.png "Plugin Group Stats")
 
 *   Jika sudah berhasil, _plugin_ akan muncul pada **_Menu Vector → GroupStats_**
 
