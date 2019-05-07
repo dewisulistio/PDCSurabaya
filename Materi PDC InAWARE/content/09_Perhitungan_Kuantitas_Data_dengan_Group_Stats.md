@@ -59,7 +59,7 @@ Jika Anda telah memiliki data ._shapefile_ seperti di atas, maka dapat melanjutk
 *   Persiapkan data objek OSM hasil _download_ dari _Export Tool_ yang sudah dilakukan **_Extract_**.  Kemudian gunakan **QGIS desktop** untuk membuka data tersebut dengan klik **_Add Vector Layer → Browse_** yang berada di sisi sebelah kiri QGIS atau klik **_Menu Layer → Add Layer → Add Vector Layer → Browse_**.
 
 <p align="center">
-  <img width=70% src="../images/0904_addvector.png">
+  <img width=50% src="../images/0904_addvector.png">
 </p>
 <p align="center"><i>Tampilan Add Vector Layer</i><p align="center">
 
@@ -89,7 +89,7 @@ Jika Anda telah memiliki data ._shapefile_ seperti di atas, maka dapat melanjutk
 *   Gabungkan _layer_ batas administrasi dengan _layer_ objek OSM agar data objek memiliki atribut nama kelurahan. Klik **_Menu Vector → Geoprocessing Tool → Intersect _**untuk memulai penggabungan _layer_. Pada bagian**_ input vector layer_** (_layer_ objek OSM) pilih satu per satu objek untuk digabungkan dengan **_Intersect layer_** (_layer_ kelurahan). Pilih ***Browse*** untuk menentukan lokasi penyimpanan **_output shapefile_** di direktori Anda, lalu klik **OK**. 
 
 <p align="center">
-  <img width=70% src="../images/0908_intersectproses.png">
+  <img width=50% src="../images/0908_intersectproses.png">
 </p>
 <p align="center"><i>Intersect penggabungan layer</i><p align="center">
 
@@ -139,7 +139,7 @@ Data OSM yang dihasilkan dari proyek pemetaan terdiri dari _points, lines,_ dan 
 5. Klik **_Calculate_** untuk memulai proses perhitungan 
 
 <p align="center">
-  <img width=70% src="../images/0913_langkahgroupstats.png">
+  <img width=80% src="../images/0913_langkahgroupstats.png">
 </p>
 <p align="center"><i>Langkah-langkah Group Stats</i><p align="center">
 
@@ -166,7 +166,7 @@ Perhitungan objek jalan berbeda dengan perhitungan objek dalam bentuk _point_ da
 *   **Klik kanan pada _layer_ jalan → _Save as_ → pilih Format ESRI Shapefile → _Save as_ dalam direktori → CRS** pilih sistem koordinat UTM sesuai dengan wilayah Anda **→** OK. 
 
 <p align="center">
-  <img width=70% src="../images/0915_simpanfile.png">
+  <img width=60% src="../images/0915_simpanfile.png">
 </p>
 <p align="center"><i>Simpan file dengan CRS berbeda</i><p align="center">
 
@@ -178,7 +178,7 @@ Perhitungan objek jalan berbeda dengan perhitungan objek dalam bentuk _point_ da
 *   Klik kanan pada _Layers_ **“Jalan_Admin_UTM”** → **_Open Attribute Table_**. Aktifkan _toolbar_ yang terletak di atas dengan klik **_Toggle editing mode_** untuk mengaktifkan semua _toolbar_.   
 
 <p align="center">
-  <img width=70% src="../images/0916_toggleediting.png">
+  <img width=60% src="../images/0916_toggleediting.png">
 </p>
 <p align="center"><i>Toolbar Toggle editing mode</i><p align="center">
 
@@ -186,7 +186,7 @@ Perhitungan objek jalan berbeda dengan perhitungan objek dalam bentuk _point_ da
 *   Untuk menambahkan kolom baru, klik **_New Field_** yang terletak pada _toolbar_.
 
 <p align="center">
-  <img width=70% src="../images/0917_newfield.png">
+  <img width=60% src="../images/0917_newfield.png">
 </p>
 <p align="center"><i>Toolbar New Field</i><p align="center">
 
