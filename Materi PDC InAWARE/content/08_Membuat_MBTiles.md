@@ -25,7 +25,7 @@ _Export Tool_ merupakan salah satu situs yang digunakan untuk men-_download_ dat
 *   Setelah Anda berhasil masuk, klik **_Start Exporting_**
 
 <p align="center">
-  <img width=80% src="../images/0802_interface_exporttool.png">
+  <img width=90% src="../images/0802_interface_exporttool.png">
 </p>
 <p align="center"><i>Tampilan Export Tool</i><p align="center">
 
@@ -39,7 +39,7 @@ _Export Tool_ merupakan salah satu situs yang digunakan untuk men-_download_ dat
 *   Langkah selanjutnya, klik **Menu Format → Beri tanda centang pada MBTiles**
 
 <p align="center">
-  <img width=70% src="../images/0804_format_mbtiles.png">
+  <img width=60% src="../images/0804_format_mbtiles.png">
 </p>
 <p align="center"><i>Pemilihan format data spasial</i><p align="center">
 
@@ -104,7 +104,7 @@ _Export Tool_ merupakan salah satu situs yang digunakan untuk men-_download_ dat
 _Plugin_ QTiles merupakan _plugin_ yang dapat digunakan untuk menghasilkan _tile_ raster dari proyek QGIS. Plugin ini dapat menyimpan pengaturan perbesaran tampilan _tile_ raster dari layanan _tile_ seperti _(Slippy map_, TMS). Anda dapat menggunakan _plugin_ QuickMapServices pada modul sebelumnya **Pembuatan Peta Survei dengan QGIS**, untuk menampilkan layanan _tile_ raster. Kelebihan lainnya dengan menggunakan _plugin_ ini, Anda dapat menampilkan layer jalan dan batas administrasi pada proyek QGIS, sehingga pada tampilan _basemap_ OMK akan membantu _data entry_ dalam pengenalan survei lapangan. Langkah - langkah yang dilakukan untuk membuat mbtiles dengan _plugin_ QTiles, sebagai berikut:
 
 **a. Instal _Plugin_ QTiles**
-*   Buka QGIS dan_ install plugin_ dengan klik **_Menu Plugin → Manage and Install Plugin. _**Tuliskan pada kotak pencarian (**_Search_**) “qtiles” maka akan tampil di bawah ini, berikan tanda centang dan klik **_Install Plugin_**. Jika _download plugin_ tidak berhasil, maka Anda dapat memeriksa jaringan internet. 
+*   Buka QGIS dan_ install plugin_ dengan klik **_Menu Plugin → Manage and Install Plugin_.**Tuliskan pada kotak pencarian (**_Search_**) “qtiles” maka akan tampil di bawah ini, berikan tanda centang dan klik **_Install Plugin_**. Jika _download plugin_ tidak berhasil, maka Anda dapat memeriksa jaringan internet. 
 
 <p align="center">
   <img width=80% src="../images/0812_qtiles.png">
@@ -140,7 +140,7 @@ _Plugin_ QTiles merupakan _plugin_ yang dapat digunakan untuk menghasilkan _tile
 *   Sekarang Anda dapat menambahkan data _layer_ yang berbentuk _tilemap_ untuk menampilkan citra satelit pada peta kanvas QGIS, dengan cara klik **_Menu Web → QuickMapServices → Search QMS_**
 
 <p align="center">
-  <img width=80% src="../images/0816_QMS.png">
+  <img width=50% src="../images/0816_QMS.png">
 </p>
 <p align="center"><i>Plugin QuickMapServices</i><p align="center">
 
@@ -178,7 +178,7 @@ _Plugin_ QTiles merupakan _plugin_ yang dapat digunakan untuk menghasilkan _tile
 *   Anda dapat mengatur perbesaran pada _basemap digital globe_ dengan pengaturan yang terletak di bawah kotak dialog QTiles. Lakukan pengaturan pada **_minimum zoom_** dan **_maximum zoom_**, sebaiknya jarak antara keduanya tidak terlalu jauh, untuk mempercepat proses pembuatan mbtiles. Klik **_Run_** untuk memulai proses pembuatan mbtiles, proses ini akan memerlukan jaringan internet.
 
 <p align="center">
-  <img width=70% src="../images/0821_pengaturanqtiles.png">
+  <img width=50% src="../images/0821_pengaturanqtiles.png">
 </p>
 <p align="center"><i>Pengaturan pada QTiles</i><p align="center">
 
@@ -205,13 +205,13 @@ Pada proses ini, Anda telah memiliki _file_ dalam bentuk format mbtiles yang aka
 *   Temukan aplikasi OMK di dalam direktori internal _smartphone_, arahkan ke dalam **folder mbtiles**. Folder **mbtiles** digunakan untuk menyalin _file basemap_ dalam format _.mbtiles_ yang dihasilkan dari _export tool_ atau dari _plugin_ QTiles yang terdapat di QGIS.
 
 <p align="center">
-  <img width=60% src="../images/0824_foldermbtiles.png">
+  <img width=50% src="../images/0824_foldermbtiles.png">
 </p>
 <p align="center"><i>Direktori OpenMapKit (OMK)</i><p align="center">
  
-
+* Buka aplikasi *OpenMapKit* pada *smartphone* Anda, dan aktifkan file *.mbtiles* yang telah dipindahkan dengan klik Menu *Basemap* pada aplikasi *OpenMapKit*.
 <p align="center">
-  <img width=70% src="../images/0825_hasildiOMK.png">
+  <img width=40% src="../images/0825_hasildiOMK.png">
 </p>
 <p align="center"><i>File .mbtiles saat di buka di OMK</i><p align="center">
 
