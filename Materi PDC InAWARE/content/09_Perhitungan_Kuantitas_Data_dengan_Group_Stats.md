@@ -15,15 +15,27 @@ Kuantitas adalah kualitas sesuatu hal yang terbentuk dari proses perhitungan dan
 
 *   Klik menu **_Plugins → Manage and Install Plugins_** 
 
-![Tampilan Menu Plugins](../images/0901_menuplugin.png "Tampilan Menu Plugins")
+<p align="center">
+  <img src="../images/0901_menuplugin.png">
+</p>
+<p align="center"><i>Tampilan Menu Plugins</i><p align="center">
+
  
 *   Anda memerlukan koneksi internet untuk menginstal _plugin_, pada kotak **_Search_** ketikkan **_Group Stats_**. **Berikan tanda centang pada _group stats_ _→ Install Plugin_**. Tunggu beberapa saat hingga proses instalasi _plugin_ selesai.
 
-![Plugin Group Stats](../images/0902_plugingroupstats.png "Plugin Group Stats")
+<p align="center">
+  <img width=70% src="../images/0902_plugingroupstats.png">
+</p>
+<p align="center"><i>Plugin Group Stats</i><p align="center">
+
 
 *   Jika sudah berhasil, _plugin_ akan muncul pada **_Menu Vector → GroupStats_**
 
-![Tampilan Plugin GroupStats](../images/0903_menugroupstats.png "Tampilan Plugin GroupStats")
+<p align="center">
+  <img src="../images/0903_menugroupstats.png">
+</p>
+<p align="center"><i>Tampilan Plugin GroupStats</i><p align="center">
+
 
 
 ### **II. Cara Menghitung Jumlah Objek dengan _Plugin Group Stats_**
@@ -46,30 +58,47 @@ Jika Anda telah memiliki data ._shapefile_ seperti di atas, maka dapat melanjutk
 **a. Persiapan _Data Layer_**
 *   Persiapkan data objek OSM hasil _download_ dari _Export Tool_ yang sudah dilakukan **_Extract_**.  Kemudian gunakan **QGIS desktop** untuk membuka data tersebut dengan klik **_Add Vector Layer → Browse_** yang berada di sisi sebelah kiri QGIS atau klik **_Menu Layer → Add Layer → Add Vector Layer → Browse_**.
 
-![Tampilan Add Vector Layer](../images/0904_addvector.png "Tampilan Add Vector Layer")
+<p align="center">
+  <img width=70% src="../images/0904_addvector.png">
+</p>
+<p align="center"><i>Tampilan Add Vector Layer</i><p align="center">
+
 
 *   Arahkan ke direktori tempat penyimpanan _file _→ ***Pilih semua → Open → Open***
 
-![Daftar File .shp hasil download data OSM](../images/0905_daftarfileshp.png "Daftar File .shp hasil download data OSM")
+<p align="center">
+  <img width=70% src="../images/0905_daftarfileshp.png">
+</p>
+<p align="center"><i>Daftar File .shp hasil download data OSM</i><p align="center">
+
 
 *   _Layer-layer_ tersebut akan tampil pada _map canvas (kanvas peta)_ dan daftar _layer_ akan tampil pada **_Layers Panel_**.
 
 ![Tampilan peta pada QGIS](../images/0906_tampilanlayer.png "Tampilan peta pada QGIS")
+<p align="center"><i>Tampilan peta pada QGIS</i><p align="center">
+
 
 *   Tambahkan data vektor batas kelurahan ke QGIS dengan klik **_Add Vector Layer_**
 
 ![Tampilan batas administrasi kelurahan](../images/0907_tampilanbatas.png "Tampilan batas administrasi kelurahan")
+<p align="center"><i>Tampilan batas administrasi kelurahan</i><p align="center">
 
 
 **b. Penggabungan Layer Objek dan Batas Administrasi**
 
 *   Gabungkan _layer_ batas administrasi dengan _layer_ objek OSM agar data objek memiliki atribut nama kelurahan. Klik **_Menu Vector → Geoprocessing Tool → Intersect _**untuk memulai penggabungan _layer_. Pada bagian**_ input vector layer_** (_layer_ objek OSM) pilih satu per satu objek untuk digabungkan dengan **_Intersect layer_** (_layer_ kelurahan). Pilih ***Browse*** untuk menentukan lokasi penyimpanan **_output shapefile_** di direktori Anda, lalu klik **OK**. 
 
-![Intersect penggabungan layer](../images/0908_intersectproses.png "Intersect penggabungan layer")
+<p align="center">
+  <img width=70% src="../images/0908_intersectproses.png">
+</p>
+<p align="center"><i>Intersect penggabungan layer</i><p align="center">
+
   
 *   Setelah berhasil akan ada _layer_ baru sebagai hasil gabungan keduanya. Untuk melihat hasilnya, Anda dapat membuka atribut tabel, dengan **klik kanan pada _layer_ fasum** dan pilih **_Open Attribute Table_**. Pada tabel atribut akan terlihat nama kelurahan pada kolom **name_2** di setiap objek OSM pada _layer_ “**fasum_point_admin”**. 
 
 ![Tabel atribut fasum point](../images/0909_tabelatribut.png "Tabel atribut fasum point")
+<p align="center"><i>Tabel atribut fasum point</i><p align="center">
+
 
 *   Lakukan kembali proses **_intersect_** kepada _layer_ **“jalan”** dan _layer_ **“fasum polygon”**, sehingga Anda memiliki 3 (tiga) _layer_ baru dari hasil penggabungan batas administrasi dan objek.
 *   Buka atribut tabel di setiap _layer_ dan periksa kolom yang dapat dijadikan acuan untuk perhitungan data OSM. Apakah di dalam tabel atribut tersebut sudah ada nama kolom seperti di bawah ini: 
@@ -84,16 +113,23 @@ Data OSM yang dihasilkan dari proyek pemetaan terdiri dari _points, lines,_ dan 
 **1. Perhitungan Data OSM dalam bentuk _Points dan Polygon_** 
 *   Jika Anda melakukan pemetaan dalam ruang lingkup kota, maka akan lebih mudah melakukan perhitungan kuantitas data per kecamatan. Lakukan _filter_ pada _layer_ “**fasum_point_admin”**, agar data yang ditampilkan  hanya untuk kecamatan tertentu, dengan **klik kanan pada layer fasum_point_admin** → ***Filter***. Kemudian, lakukan langkah seperti gambar di bawah ini.
 
+<p align="center">
+  <img width=70% src="../images/0910_langkahfilterdata.png">
+</p>
+<p align="center"><i>Langkah-Langkah Filter Data</i><p align="center">
 
-![Langkah-Langkah Filter Data](../images/0910_langkahfilterdata.png "Langkah-Langkah Filter Data")
    
 *   Ketika Anda klik **OK** akan tampil objek OSM yang hanya ada di Kecamatan Candisari
 
 ![Tabel atribut hasil filter](../images/0911_filtercandisari.png "Tabel atribut hasil filter")
+<p align="center"><i>Tabel atribut hasil filter</i><p align="center">
+
 
 *   Sekarang Anda akan memulai proses perhitungan dengan _plugin_ **_Group Stats_**. Buka **_Menu Vector → Group Stats → GroupStats_** 
 
 ![Group Stats](../images/0912_menugroupstats.png "Group Stats")
+<p align="center"><i>Group Stats</i><p align="center">
+
 
 *   Lakukan seperti langkah di bawah ini:
 1. **_Layers_**= menunjukkan _layer_ yang akan dihitung jumlah objeknya. **_Fields_** = secara otomatis menunjukkan kolom yang ada pada tabel atribut _layers_ yang dipilih  
@@ -102,15 +138,21 @@ Data OSM yang dihasilkan dari proyek pemetaan terdiri dari _points, lines,_ dan 
 4. **_Value_**= sebagai acuan dasar perhitungan, pilih formula + kolom _Layers_
 5. Klik **_Calculate_** untuk memulai proses perhitungan 
 
-
-![Langkah-langkah Group Stats](../images/0913_langkahgroupstats.png "Langkah-langkah Group Stats")
+<p align="center">
+  <img width=70% src="../images/0913_langkahgroupstats.png">
+</p>
+<p align="center"><i>Langkah-langkah Group Stats</i><p align="center">
 
 
 *   Tabel yang muncul pada **_Group Stats_**, akan di _copy_ dan di _paste_ ke tempat yang lebih mudah untuk dimodifikasi misalnya menjadi bentuk grafik. Anda dapat memindahkan tabel tersebut ke **Excel** atau **Google Sheets**. 
 
     Caranya : Klik **_Data → Copy all to clipboard._**
 
-![Copy dan paste tabel atribut](../images/0914_clipboard.png "Copy dan paste tabel atribut")
+<p align="center">
+  <img width=70% src="../images/0914_clipboard.png">
+</p>
+<p align="center"><i>Copy dan paste tabel atribut</i><p align="center">
+
 
 *   Buka _Microsoft_ _Excel_ atau _Google Sheet_ untuk memindahkan isi dari tabel hasil perhitungan **_Group Stats_** tersebut. 
 *   Lakukan langkah yang sama untuk perhitungan objek-objek lainnya. Anda dapat melihat contoh tabel hasil perhitungan objek di Kota Semarang pada [http://tinyurl.com/kuantitas-data](http://tinyurl.com/kuantitas-data)
@@ -123,7 +165,11 @@ Perhitungan objek jalan berbeda dengan perhitungan objek dalam bentuk _point_ da
 
 *   **Klik kanan pada _layer_ jalan → _Save as_ → pilih Format ESRI Shapefile → _Save as_ dalam direktori → CRS** pilih sistem koordinat UTM sesuai dengan wilayah Anda **→** OK. 
 
-![Simpan file dengan CRS berbeda](../images/0915_simpanfile.png "Simpan file dengan CRS berbeda")
+<p align="center">
+  <img width=70% src="../images/0915_simpanfile.png">
+</p>
+<p align="center"><i>Simpan file dengan CRS berbeda</i><p align="center">
+
 
 *   Jika Anda memberikan tanda centang pada **_Add saved file to map_**, maka _layer_ jalan yang baru akan langsung muncul di **_Layers Panel_** dan kanvas peta.
 
@@ -131,11 +177,19 @@ Perhitungan objek jalan berbeda dengan perhitungan objek dalam bentuk _point_ da
 
 *   Klik kanan pada _Layers_ **“Jalan_Admin_UTM”** → **_Open Attribute Table_**. Aktifkan _toolbar_ yang terletak di atas dengan klik **_Toggle editing mode_** untuk mengaktifkan semua _toolbar_.   
 
-![Toolbar Toggle editing mode](../images/0916_toggleediting.png "Toolbar Toggle editing mode")
+<p align="center">
+  <img width=70% src="../images/0916_toggleediting.png">
+</p>
+<p align="center"><i>Toolbar Toggle editing mode</i><p align="center">
+
  
 *   Untuk menambahkan kolom baru, klik **_New Field_** yang terletak pada _toolbar_.
 
-![Toolbar New Field](../images/0917_newfield.png "Toolbar New Field")
+<p align="center">
+  <img width=70% src="../images/0917_newfield.png">
+</p>
+<p align="center"><i>Toolbar New Field</i><p align="center">
+
 
 *   Tampilan kotak dialog **_Add field_** akan nampak seperti gambar di bawah ini, ada beberapa pengaturan isian, yaitu :
 1. **_Name_** 	= menampilkan judul kolom
@@ -143,8 +197,11 @@ Perhitungan objek jalan berbeda dengan perhitungan objek dalam bentuk _point_ da
 3. **_Provider type double_** = _Length_ menunjukkan jumlah angka di setiap baris dan _precision_ menunjukkan jumlah desimal di belakang koma.
 4. Klik OK = untuk menyelesaikan pengaturan   
 
+<p align="center">
+  <img src="../images/0918_pengaturanfield.png">
+</p>
+<p align="center"><i>Pengaturan Add field</i><p align="center">
 
-![Pengaturan Add field](../images/0918_pengaturanfield.png "Pengaturan Add field")
 
 **Perhitungan Panjang Jalan (meter) dengan _Field Calculator_**
 
@@ -156,32 +213,54 @@ Perhitungan objek jalan berbeda dengan perhitungan objek dalam bentuk _point_ da
 4. Klik dua kali pada bagian **_Geometry → length_** sebagai formula untuk menghitung panjang jalan, kata **_$length_** akan muncul pada kotak **_Expression._**
 5. Klik OK untuk menyelesaikan pengaturan _field calculator_
 
-![Pengaturan Field Calculator untuk panjang jalan](../images/0919_fieldpj.png "Pengaturan Field Calculator untuk panjang jalan")
+<p align="center">
+  <img width=70% src="../images/0919_fieldpj.png">
+</p>
+<p align="center"><i>Pengaturan Field Calculator untuk panjang jalan</i><p align="center">
+
   
 *   Periksa kolom paling akhir di tabel atribut untuk mengetahui panjang jalan  untuk setiap segmen jalan. 
 
 ![Panjang jalan untuk segmen jalan](../images/0920_hasilpj.png "Panjang jalan untuk segmen jalan")
+<p align="center"><i>Panjang jalan untuk segmen jalan</i><p align="center">
+
  
 *   Simpan hasil perhitungan jalan tersebut dengan cara klik _toolbar **Save Edits**_. Untuk mengakhiri mode pengeditan klik **_Toggle Editing_**.
 
-![Simpan perubahan](../images/0921_savechange.png "Simpan perubahan")
+<p align="center">
+  <img width=60% src="../images/0921_savechange.png">
+</p>
+<p align="center"><i>Simpan perubahan</i><p align="center">
+
 
 **Menghitung Jumlah Panjang Jalan Berdasarkan Jenis Jalan dengan _Group Stats_**
 
 *   Untuk memudahkan proses perhitungan kuantitas data untuk panjang jalan, Anda akan melakukan filter perhitungan berdasarkan administrasi kecamatan, langkah yang diperlukan yaitu klik kanan pada **_layer_ “jalan_admin_utm” → Filter → (ikuti  langkah-langkah seperti gambar di bawah) → OK**.
 
-![Filter berdasarkan Kecamatan](../images/0922_filtermenu.png "Filter berdasarkan Kecamatan")
+<p align="center">
+  <img width=70% src="../images/0922_filtermenu.png">
+</p>
+<p align="center"><i>Filter berdasarkan Kecamatan</i><p align="center">
+
 
 *   Buka _plugin **Group Stats**_ dengan klik **_Menu Vector → Group Stats → Group Stats_**. 
 *   Pada bagian **_Value_**, Anda dapat menggunakan formula **“sum”** untuk menghitung panjang jalan yang terdapat di kolom **Panjang_Jl** yang telah dihitung sebelumnya.
 
-![Pengaturan Group Stats untuk panjang jalan](../images/0923_groupstatspj.png "Pengaturan Group Stats untuk panjang jalan")
+<p align="center">
+  <img width=80% src="../images/0923_groupstatspj.png">
+</p>
+<p align="center"><i>Pengaturan Group Stats untuk panjang jalan</i><p align="center">
+
 
 *   Sama seperti sebelumnya, tabel yang muncul pada _Group Stats_ akan disalin dan  _paste_ ke tempat yang lebih mudah untuk dimodifikasi misalnya menjadi bentuk grafik. Anda dapat memindahkan tabel tersebut ke _Microsoft_ _Excel_ atau _Google Sheets_. 
 
     Caranya : Klik **_Data → Copy all to clipboard._**
 
-![Copy dan paste tabel atribut](../images/0924_copyhasilpj.png "Copy dan paste tabel atribut")
+<p align="center">
+  <img width=70% src="../images/0924_copyhasilpj.png">
+</p>
+<p align="center"><i>Copy dan paste tabel atribut</i><p align="center">
+
 
 *   Siapkan _Microsoft Excel_ atau _Google Sheet_ untuk memindahkan tabel tersebut
 
