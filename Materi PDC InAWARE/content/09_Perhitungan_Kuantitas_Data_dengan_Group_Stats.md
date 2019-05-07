@@ -127,7 +127,9 @@ Data OSM yang dihasilkan dari proyek pemetaan terdiri dari _points, lines,_ dan 
 
 *   Sekarang Anda akan memulai proses perhitungan dengan _plugin_ **_Group Stats_**. Buka **_Menu Vector → Group Stats → GroupStats_** 
 
-![Group Stats](../images/0912_menugroupstats.png "Group Stats")
+<p align="center">
+  <img src="../images/0912_menugroupstats.png">
+</p>
 <p align="center"><i>Group Stats</i><p align="center">
 
 
@@ -178,7 +180,7 @@ Perhitungan objek jalan berbeda dengan perhitungan objek dalam bentuk _point_ da
 *   Klik kanan pada _Layers_ **“Jalan_Admin_UTM”** → **_Open Attribute Table_**. Aktifkan _toolbar_ yang terletak di atas dengan klik **_Toggle editing mode_** untuk mengaktifkan semua _toolbar_.   
 
 <p align="center">
-  <img width=60% src="../images/0916_toggleediting.png">
+  <img width=50% src="../images/0916_toggleediting.png">
 </p>
 <p align="center"><i>Toolbar Toggle editing mode</i><p align="center">
 
@@ -228,7 +230,7 @@ Perhitungan objek jalan berbeda dengan perhitungan objek dalam bentuk _point_ da
 *   Simpan hasil perhitungan jalan tersebut dengan cara klik _toolbar **Save Edits**_. Untuk mengakhiri mode pengeditan klik **_Toggle Editing_**.
 
 <p align="center">
-  <img width=60% src="../images/0921_savechange.png">
+  <img width=50% src="../images/0921_savechange.png">
 </p>
 <p align="center"><i>Simpan perubahan</i><p align="center">
 
